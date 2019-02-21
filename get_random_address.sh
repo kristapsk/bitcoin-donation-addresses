@@ -11,4 +11,4 @@ elif [ "$format" == "bech32" ]; then
 else
     format="\([13][a-km-zA-HJ-NP-Z1-9]\{25,39\}\|bc1[a-z0-9]\{8,87\}\|BC1[A-Z0-9]\{8,87\}\)"
 fi
-grep -e "$format" README.md | cut -d '|' -f 3 | shuf -n 1
+LANG=POSIX grep -e "$format" README.md | cut -d '|' -f 3 | shuf -n 1
