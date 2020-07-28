@@ -2,7 +2,7 @@
 
 | Organization or person | Address | Source |
 | --- | --- | --- |
-| Bitcoin.org | 3FkenCiXpSLqD8L79intRNXUgjRoH9sjXa | https://bitcoin.org/en/ |
+| Bitcoin.org | 3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd | https://bitcoin.org/en/ |
 | Bitcoin Venezuela | 1VenCBSjJWDi6PDgEDppZzXsNWHiwitzT | https://www.bitcoinvenezuela.com/ |
 | Free Software Foundation | 1PC9aZC4hNX2rmmrt7uHTfYAS3hRbph4UN | https://www.fsf.org/about/ways-to-donate/ |
 | JoinMarket | bc1q5x02zqj5nshw0yhx2s4tj75z6vkvuvww26jak5 | https://github.com/JoinMarket-Org/joinmarket-clientserver |
