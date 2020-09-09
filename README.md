@@ -2,6 +2,7 @@
 
 | Organization or person | Address | Source |
 | --- | --- | --- |
+| Belarus Solidarity Fund BYSOL | 14dafBcLgzU7v7nQhfxE18XNoKNx8j99ey | https://www.belaruswith.me/english |
 | Bitcoin.org | 3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd | https://bitcoin.org/en/ |
 | Bitcoin Venezuela | 1VenCBSjJWDi6PDgEDppZzXsNWHiwitzT | https://www.bitcoinvenezuela.com/ |
 | Free Software Foundation | 1PC9aZC4hNX2rmmrt7uHTfYAS3hRbph4UN | https://www.fsf.org/about/ways-to-donate/ |
