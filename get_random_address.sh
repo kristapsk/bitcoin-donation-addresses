@@ -1,4 +1,5 @@
 #! /bin/bash
+cd "$(dirname "$0")"
 format="`echo "$1" | tr '[:upper:]' '[:lower:]'`"
 if [ "$format" == "p2pkh" ]; then
     format="[| ]1[a-km-zA-HJ-NP-Z1-9]\{25,39\}"
