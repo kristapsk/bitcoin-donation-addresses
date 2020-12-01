@@ -6,6 +6,7 @@
 | Bitcoin.org | 3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd | https://bitcoin.org/en/ |
 | Bitcoin Venezuela | 1VenCBSjJWDi6PDgEDppZzXsNWHiwitzT | https://www.bitcoinvenezuela.com/ |
 | Free Software Foundation | 1PC9aZC4hNX2rmmrt7uHTfYAS3hRbph4UN | https://www.fsf.org/about/ways-to-donate/ |
+| Human Rights Foundation | 18fyEQXaZQgCbNoE5Qjs6W7Pnqc9Yp4PQD | https://humanrights.foundation/donate-bitcoin.html |
 | JoinMarket | bc1q5x02zqj5nshw0yhx2s4tj75z6vkvuvww26jak5 | https://github.com/JoinMarket-Org/joinmarket-clientserver |
 | JoinMarket | 1AZgQZWYRteh6UyF87hwuvyWj73NvWKpL | https://github.com/JoinMarket-Org/joinmarket-clientserver |
 | Sci-Hub | 12PCbUDS4ho7vgSccmixKTHmq9qL2mdSns | https://sci-hub.se/ |
