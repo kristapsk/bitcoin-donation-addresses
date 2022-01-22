@@ -2,7 +2,6 @@
 
 | Organization or person | Address | Source |
 | --- | --- | --- |
-| ALS Association (in honor of Hal Finney) | 1HwMcLtpCfU4ex3tp2ZW1iGnrJLZDNMDDD | http://web.alsa.org/site/TR/Endurance/GoldenWest?sid=10590&type=fr_informational&pg=informational&fr_id=14523 |
 | Bitcoin.org | 3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd | https://bitcoin.org/en/ |
 | Bitcoin Venezuela | 1VenCBSjJWDi6PDgEDppZzXsNWHiwitzT | https://www.bitcoinvenezuela.com/ |
 | Free Software Foundation | 1PC9aZC4hNX2rmmrt7uHTfYAS3hRbph4UN | https://www.fsf.org/about/ways-to-donate/ |
