@@ -7,7 +7,7 @@
 | Free Software Foundation | 1PC9aZC4hNX2rmmrt7uHTfYAS3hRbph4UN | https://www.fsf.org/about/ways-to-donate/ |
 | ibf.lv | 1CvuDdTXE2q96o7sxhNnjahY8o8AM35Xa9 | https://www.ibf.lv/atbalsts/ |
 | Meduza | bc1qrf2uj202f60uver3r9uyf7kypwaan50mtfyehl | https://support.meduza.io/en |
-| Sci-Hub | 12PCbUDS4ho7vgSccmixKTHmq9qL2mdSns | https://sci-hub.se/ |
+| Sci-Hub | 12PCbUDS4ho7vgSccmixKTHmq9qL2mdSns | https://sci-hub.se/donate |
 | Sci-Hub | bc1q7eqheemcu6xpgr42vl0ayel6wj087nxdfjfndf | https://sci-hub.se/donate |
 | SENS Research Foundation | 3N6qaU3bnF43u4YTFKQf8usd3UqvyShovS | https://www.sens.org/donate |
 | The Internet Archive | 1Archive1n2C579dMsAu3iC6tWzuQJz8dN | https://archive.org/donate/bitcoin.php |
