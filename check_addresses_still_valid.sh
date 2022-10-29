@@ -5,7 +5,7 @@ LANG=POSIX grep -e '\([13][a-km-zA-HJ-NP-Z1-9]\{25,39\}\|bc1[a-z0-9]\{8,87\}\|BC
     datafile="$(mktemp)"
     wget -q -O $datafile $url
     if ! grep -qs $address $datafile; then
-        echo "$address not found in $url"
+        echo -e "$address not found in $url\n"
     fi
     rm -f $datafile
 done
