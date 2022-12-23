@@ -4,6 +4,7 @@
 | --- | --- | --- |
 | Bitcoin.org | 3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd | https://bitcoin.org/en/ |
 | Bitcoin Venezuela | 1VenCBSjJWDi6PDgEDppZzXsNWHiwitzT | https://www.bitcoinvenezuela.com/ |
+| Bob Marley Volunteer Defence Squad (Ukraine) | 3ALHhgGgZ1gnBJF43n2ktjj2RJGVmUpU5F | https://bmvds.com/en/ |
 | Come Back Alive Foundation (Ukraine) (Army assistance) | bc1qkd5az2ml7dk5j5h672yhxmhmxe9tuf97j39fm6 | https://savelife.in.ua/en/donate-en/ |
 | Come Back Alive Foundation (Ukraine) (Support the fund) | bc1qsqfxclxzxc9fyx8taausct7jlp6ngekzegwr3r | https://savelife.in.ua/en/donate-en/ |
 | Free Software Foundation | 1PC9aZC4hNX2rmmrt7uHTfYAS3hRbph4UN | https://www.fsf.org/about/ways-to-donate/ |
