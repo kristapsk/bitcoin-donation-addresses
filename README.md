@@ -2,6 +2,7 @@
 
 | Organization or person | Address | Source |
 | --- | --- | --- |
+| Anna's Archive | 15ruLg4LeREntByp7Xyzhf5hu2qGn8ta2o | https://annas-archive.org/donate |
 | Bitcoin.org | 3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcd | https://bitcoin.org/en/ |
 | Bitcoin Venezuela | 1VenCBSjJWDi6PDgEDppZzXsNWHiwitzT | https://www.bitcoinvenezuela.com/ |
 | Bob Marley Volunteer Defence Squad (Ukraine) | 3ALHhgGgZ1gnBJF43n2ktjj2RJGVmUpU5F | https://bmvds.com/en/ |
